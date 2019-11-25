@@ -15,7 +15,7 @@
    viewBox="0 0 22 22"
    id="svg7925"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="system-file-manager.svg">
   <defs
      id="defs7927">
@@ -65,23 +65,13 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4172-5"
-       id="linearGradient4178"
-       y1="548.88599"
-       y2="495.30789"
-       x2="397.2283"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.34616832,0,0,0.34605565,-133.24271,862.87242)"
-       x1="434.16153" />
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient4172-5">
       <stop
-         style="stop-color:#127bdc;stop-opacity:1"
+         style="stop-color:#001e1e;stop-opacity:1"
          id="stop4174-6" />
       <stop
          offset="1"
-         style="stop-color:#64b4f4;stop-opacity:1"
+         style="stop-color:#00b8b8;stop-opacity:1"
          id="stop4176-6" />
     </linearGradient>
     <linearGradient
@@ -109,25 +99,13 @@
     <linearGradient
        gradientTransform="matrix(0.34616832,0,0,0.34616832,-133.24271,862.81136)"
        inkscape:collect="always"
-       xlink:href="#linearGradient4291"
+       xlink:href="#linearGradient4172-5"
        id="linearGradient4297"
        x1="388.57144"
        y1="487.798"
        x2="416.57144"
        y2="507.798"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4291">
-      <stop
-         style="stop-color:#1d5e8c;stop-opacity:1"
-         offset="0"
-         id="stop4293" />
-      <stop
-         style="stop-color:#2675a7;stop-opacity:1"
-         offset="1"
-         id="stop4295" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4274"
@@ -148,6 +126,16 @@
        y1="498.298"
        x2="442.57144"
        y2="498.298" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172-5"
+       id="linearGradient843"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34616832,0,0,0.34605565,-133.24271,862.87242)"
+       x1="434.16153"
+       y1="548.88599"
+       x2="397.2283"
+       y2="495.30789" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -156,16 +144,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="14.052007"
-     inkscape:cy="13.482364"
+     inkscape:zoom="8"
+     inkscape:cx="2.8988438"
+     inkscape:cy="-3.7257801"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:object-nodes="true">
+     inkscape:object-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid8605" />
@@ -189,7 +182,7 @@
      transform="translate(0,-1030.3622)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient4297);fill-opacity:1"
+       style="fill:url(#linearGradient4297);fill-opacity:1.0"
        id="rect4180"
        d="m 1,1042.3622 20,0.501 0,-8.501 -10,0 -1.588488,-2.0013 -8.411512,0 z"
        sodipodi:nodetypes="ccccccc" />
@@ -204,7 +197,7 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4225);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient4178)"
+       style="fill:url(#linearGradient843);fill-opacity:1"
        d="m 9,1038.3622 -2,1 -6,0 -0.0895868,1.0011 -5e-7,9.5003 c 0,0.2699 0.244354,0.4954 0.4919395,0.4954 l 19.0105828,0.01 c 0.255387,0.01 0.500065,-0.1978 0.500065,-0.5 L 21,1038.3622 Z"
        id="rect4113"
        sodipodi:nodetypes="cccccscccc" />
