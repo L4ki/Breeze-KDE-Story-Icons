@@ -11,4 +11,6 @@ https://www.pling.com/p/1334700/
 Changelog: 24.12.2019.
 ---------------------
 
+Breeze-KDE-Story-Dark-Icons:
+
 Correction of draw-polygon-star and draw-polygon icons
