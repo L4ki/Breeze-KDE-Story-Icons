@@ -11,7 +11,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="org.kde.plasma.showActivityManager.svg">
   <metadata
      id="metadata10">
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1050"
+     inkscape:window-height="1028"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="1.84375"
-     inkscape:cx="113.86203"
-     inkscape:cy="62.960413"
+     inkscape:zoom="5.7617188"
+     inkscape:cx="82.881691"
+     inkscape:cy="49.075667"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -504,7 +504,7 @@
        style="opacity:1;fill:#99a1a7;fill-opacity:1;stroke:none" />
     <flowRoot
        transform="translate(357.57142,520.79807)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4170"
        xml:space="preserve"><flowRegion
          id="flowRegion4172"><rect
@@ -513,13 +513,14 @@
            height="15"
            width="27"
            id="rect4174" /></flowRegion><flowPara
-         id="flowPara4176">Plasm</flowPara></flowRoot>    <rect
+         id="flowPara4176"
+         style="font-size:10px;line-height:1.25">Plasm</flowPara></flowRoot>    <rect
        y="535.79773"
        x="386.57144"
        height="1"
        width="14.999989"
        id="rect4416"
-       style="opacity:1;fill:#3092df;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#00b8b8;fill-opacity:1;stroke:none" />
     <rect
        y="535.79773"
        x="400.57144"
