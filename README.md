@@ -14,3 +14,10 @@ Changelog: 24.12.2019.
 Breeze-KDE-Story-Dark-Icons:
 
 Correction of draw-polygon-star and draw-polygon icons
+
+Changelog: 22.01.2020.
+
+Breeze KDE-Story-Dark and Breeze-KDE-Story-Light:
+
+Places icon correction (32 and64): folder-games, folder-root, folder-unlocked.
+Applet Icon Correction (256)
