@@ -26,13 +26,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1040"
+     inkscape:window-height="1028"
      id="namedview17"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:zoom="4"
-     inkscape:cx="16.983063"
+     inkscape:cx="-27.891937"
      inkscape:cy="58.823025"
      inkscape:current-layer="layer1"
      showguides="false"
@@ -57,6 +57,17 @@
   </sodipodi:namedview>
   <defs
      id="defs5455">
+    <linearGradient
+       id="linearGradient880"
+       inkscape:collect="always">
+      <stop
+         id="stop876"
+         style="stop-color:#00b8b8;stop-opacity:1" />
+      <stop
+         id="stop878"
+         style="stop-color:#00b8b8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4393">
@@ -97,12 +108,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4172-5"
        id="linearGradient4178"
-       y1="548.88599"
-       y2="495.30789"
-       x2="397.2283"
+       y1="524.37799"
+       y2="525.81781"
+       x2="388.4783"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.99967455,-384.57143,-483.62155)"
-       x1="434.16153" />
+       x1="481.16153" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4172-5">
@@ -212,7 +223,7 @@
        gradientTransform="translate(0,1)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4172-5"
+       xlink:href="#linearGradient880"
        id="linearGradient4297"
        x1="388.57144"
        y1="487.798"
@@ -254,10 +265,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4393"
        id="linearGradient4399"
-       x1="443.57144"
-       y1="510.798"
-       x2="443.57144"
-       y2="526.79797"
+       x1="410.82144"
+       y1="521.04797"
+       x2="439.07144"
+       y2="521.04797"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-23,5)" />
     <linearGradient
