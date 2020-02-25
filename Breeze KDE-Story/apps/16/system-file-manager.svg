@@ -20,6 +20,17 @@
   <defs
      id="defs8696">
     <linearGradient
+       id="linearGradient837"
+       inkscape:collect="always">
+      <stop
+         id="stop833"
+         style="stop-color:#00b8b8;stop-opacity:1" />
+      <stop
+         id="stop835"
+         style="stop-color:#00b8b8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient4154">
       <stop
@@ -35,12 +46,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4172-5"
        id="linearGradient4178"
-       y1="548.88599"
-       y2="495.30789"
-       x2="397.2283"
+       y1="528.84216"
+       y2="526.73657"
+       x2="387.931"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.2756997,0,0,0.27560997,-106.8439,902.03958)"
-       x1="434.16153" />
+       x1="478.88474" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4172-5">
@@ -77,7 +88,7 @@
     <linearGradient
        gradientTransform="matrix(0.2756997,0,0,0.2756997,-106.8439,901.99095)"
        inkscape:collect="always"
-       xlink:href="#linearGradient4172-5"
+       xlink:href="#linearGradient837"
        id="linearGradient4297"
        x1="388.57144"
        y1="487.798"
@@ -88,10 +99,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4154"
        id="linearGradient4160"
-       x1="5"
-       y1="1037.3622"
-       x2="8"
-       y2="1051.3622"
+       x1="0.35961175"
+       y1="1046.7755"
+       x2="7.3370872"
+       y2="1046.9869"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -101,9 +112,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="-6.7678954"
-     inkscape:cy="-0.49124649"
+     inkscape:zoom="11.313709"
+     inkscape:cx="12.697315"
+     inkscape:cy="3.0372987"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -115,7 +126,7 @@
      inkscape:showpageshadow="false"
      showborder="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1040"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
