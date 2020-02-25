@@ -20,6 +20,17 @@
   <defs
      id="defs7927">
     <linearGradient
+       id="linearGradient847"
+       inkscape:collect="always">
+      <stop
+         id="stop843"
+         style="stop-color:#00b8b8;stop-opacity:1" />
+      <stop
+         id="stop845"
+         style="stop-color:#00b8b8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient4274"
        inkscape:collect="always">
       <stop
@@ -45,10 +56,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4393"
        id="linearGradient4399"
-       x1="419.4624"
-       y1="499.23697"
-       x2="432.57144"
-       y2="523.79797"
+       x1="410.79608"
+       y1="515.12805"
+       x2="439.2081"
+       y2="515.63873"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.34616832,0,0,0.34616832,-141.20459,864.54218)" />
     <linearGradient
@@ -99,7 +110,7 @@
     <linearGradient
        gradientTransform="matrix(0.34616832,0,0,0.34616832,-133.24271,862.81136)"
        inkscape:collect="always"
-       xlink:href="#linearGradient4172-5"
+       xlink:href="#linearGradient847"
        id="linearGradient4297"
        x1="388.57144"
        y1="487.798"
@@ -132,10 +143,10 @@
        id="linearGradient843"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.34616832,0,0,0.34605565,-133.24271,862.87242)"
-       x1="434.16153"
-       y1="548.88599"
-       x2="397.2283"
-       y2="495.30789" />
+       x1="482.8501"
+       y1="521.90881"
+       x2="387.79605"
+       y2="520.12091" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -144,9 +155,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="2.8988438"
-     inkscape:cy="-3.7257801"
+     inkscape:zoom="11.313708"
+     inkscape:cx="6.7699086"
+     inkscape:cy="-2.2035133"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -155,7 +166,7 @@
      inkscape:bbox-nodes="true"
      inkscape:object-nodes="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1040"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
