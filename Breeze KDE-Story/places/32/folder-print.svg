@@ -34,11 +34,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1028"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.3389831"
+     inkscape:cx="-32.677966"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -113,8 +113,8 @@
        id="linearGradient834"
        x1="1"
        y1="16"
-       x2="31"
-       y2="16"
+       x2="55"
+       y2="16.40678"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -145,7 +145,7 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     style="fill:currentColor;fill-opacity:0.6;stroke:none"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
      d="M 12 13 L 12 14 L 12 16 L 11 16 L 11 17 L 11 20 L 11 21 L 12 21 L 13 21 L 13 22 L 13 23 L 18 23 L 19 23 L 19 21 L 21 21 L 21 20 L 21 16 L 20 16 L 20 13 L 12 13 z M 13 14 L 19 14 L 19 16 L 13 16 L 13 14 z M 12 17 L 18 17 L 18 18 L 19 18 L 19 17 L 20 17 L 20 20 L 19 20 L 19 19 L 13 19 L 13 20 L 12 20 L 12 17 z M 14 21 L 18 21 L 18 22 L 14 22 L 14 21 z "
      class="ColorScheme-Background"
      id="path12" />
