@@ -20,6 +20,17 @@
   <defs
      id="defs6550">
     <linearGradient
+       id="linearGradient843"
+       inkscape:collect="always">
+      <stop
+         id="stop839"
+         style="stop-color:#00b8b8;stop-opacity:1" />
+      <stop
+         id="stop841"
+         style="stop-color:#00b8b8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient4274"
        inkscape:collect="always">
       <stop
@@ -35,10 +46,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4393"
        id="linearGradient4399"
-       x1="430.51038"
-       y1="501.60815"
-       x2="452.87308"
-       y2="527.82001"
+       x1="406.92584"
+       y1="517.2962"
+       x2="438.98929"
+       y2="519.21143"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.46149782,0,0,0.46149782,-186.79539,798.63114)" />
     <linearGradient
@@ -89,10 +100,10 @@
     <linearGradient
        gradientTransform="matrix(0.46149782,0,0,0.46149782,-176.18094,798.32365)"
        inkscape:collect="always"
-       xlink:href="#linearGradient4172-5"
+       xlink:href="#linearGradient843"
        id="linearGradient4297"
-       x1="388.57144"
-       y1="487.798"
+       x1="383.92584"
+       y1="485.45959"
        x2="416.57144"
        y2="507.798"
        gradientUnits="userSpaceOnUse" />
@@ -122,10 +133,10 @@
        id="linearGradient842"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.46149782,0,0,0.46134762,-176.18094,798.40507)"
-       x1="434.16153"
-       y1="548.88599"
-       x2="397.2283"
-       y2="495.30789" />
+       x1="494.51453"
+       y1="517.95459"
+       x2="383.92584"
+       y2="517.95459" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -135,8 +146,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="17.192806"
-     inkscape:cy="-26.288614"
+     inkscape:cx="29.190696"
+     inkscape:cy="-0.0066512254"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -147,7 +158,7 @@
      inkscape:snap-global="true"
      showborder="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1040"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -174,7 +185,7 @@
      transform="translate(0,-1020.3622)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient4297);fill-opacity:1.0"
+       style="fill:url(#linearGradient4297);fill-opacity:1"
        id="rect4180"
        d="m 1,1037.3622 30,0 0,-13 -15.000009,-10e-5 L 14,1022.3622 l -13,0 z"
        sodipodi:nodetypes="ccccccc" />
