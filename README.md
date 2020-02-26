@@ -29,5 +29,7 @@ Changelog: 26.02.2020.
 Breeze KDE-Story-Dark-Icons:
 
 Corrected icons in Action Folder
+
 Places Folder icons corrected: (32 and 64)
+
 Fixed icons in Apps Folder
