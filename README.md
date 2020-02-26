@@ -22,3 +22,12 @@ Breeze KDE-Story-Dark and Breeze-KDE-Story-Light:
 
 Places icon correction (32 and 64): folder-games, folder-root, folder-unlocked.
 Applet Icon Correction (256)
+
+Changelog: 26.02.2020.
+----------------------
+
+Breeze KDE-Story-Dark-Icons:
+
+Corrected icons in Action Folder
+Places Folder icons corrected: (32 and 64)
+Fixed icons in Apps Folder
