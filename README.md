@@ -34,3 +34,10 @@ Corrected icons in Action Folder
 Places Folder icons corrected: (32 and 64)
 
 Fixed icons in Apps Folder
+
+Changelog: 18.07.2020.
+----------------------
+
+Update Breeze Icons 5.72
+
+Breeze KDE-Story Icons
