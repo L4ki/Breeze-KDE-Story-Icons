@@ -41,3 +41,8 @@ Changelog: 18.07.2020.
 Update Breeze Icons 5.72
 
 Breeze KDE-Story Icons
+
+Changelog: 22.08.2020.
+----------------------
+
+Fixed some icons in the action folder
