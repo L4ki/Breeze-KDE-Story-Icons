@@ -46,3 +46,10 @@ Changelog: 22.08.2020.
 ----------------------
 
 Fixed some icons in the action folder
+
+Changelog: 09.10.2020.
+----------------------
+
+Added mpd.svg icon
+
+Modified mouse icons
