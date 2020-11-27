@@ -58,3 +58,5 @@ Changelog" 27.11.2020.
 ---------------------
 
 Add icons: onlyoffice-desktopeditors, onlyoffice
+
+Fixed icons: activities
