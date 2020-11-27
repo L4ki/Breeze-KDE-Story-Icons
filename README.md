@@ -53,3 +53,8 @@ Changelog: 09.10.2020.
 Added mpd.svg icon
 
 Modified mouse icons
+
+Changelog" 27.11.2020.
+---------------------
+
+Add icons: onlyoffice-desktopeditors, onlyoffice
