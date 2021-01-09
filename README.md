@@ -60,3 +60,8 @@ Changelog" 27.11.2020.
 Add icons: onlyoffice-desktopeditors, onlyoffice
 
 Fixed icons: activities
+
+Changelog: 09.01.2021.
+----------------------
+
+Added icons: folder-KDE, folder-Manjaro, folder-Neon, folder-openSUSE, Folder-Reddit
