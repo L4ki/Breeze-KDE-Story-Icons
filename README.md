@@ -65,3 +65,8 @@ Changelog: 09.01.2021.
 ----------------------
 
 Added icons: folder-KDE, folder-Manjaro, folder-Neon, folder-openSUSE, Folder-Reddit
+
+Changelog: 07.02.2021.
+----------------------
+
+Added Icons: folder-Github, folder-Pop_OS.svg
