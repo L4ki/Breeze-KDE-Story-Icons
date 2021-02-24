@@ -70,3 +70,8 @@ Changelog: 07.02.2021.
 ----------------------
 
 Added Icons: folder-Github, folder-Pop_OS.svg
+
+Changelog: 24.02.2021.
+-----------------------
+
+Icons correction: action folder (22)
