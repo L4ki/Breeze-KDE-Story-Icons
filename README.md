@@ -80,3 +80,8 @@ Changelog: 12.03.2021.
 ----------------------
 
 Fixed icons: compass.svg
+
+Changelog: 23.03.2021.
+----------------------
+
+Added icons: action (48 and 64)
