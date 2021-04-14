@@ -100,4 +100,4 @@ Added Icons: folder-Github, folder-KDE, folder-Neon, folder-Manjaro, folder-open
 Changelog: 14.04.2021.
 ---------------------
 
-Added new icons: devices (24,symbolic)
+Added new icons: devices (24, symbolic)
