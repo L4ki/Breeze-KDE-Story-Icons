@@ -102,7 +102,7 @@ Changelog: 14.04.2021.
 
 Added new icons: devices (24, symbolic)
 
-Changelog: 28.04,2021.
+Changelog: 28.04.2021.
 -----------------------
 
 Added new icons: applets (16, 24, 256)
