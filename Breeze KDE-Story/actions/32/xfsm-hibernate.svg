@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="system-hibernate.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13">
+    <radialGradient
+       gradientTransform="matrix(1.3636364,0,0,1.3636364,-286.72725,-0.3636359)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient940"
+       id="radialGradient942"
+       cx="222"
+       cy="12"
+       fx="222"
+       fy="12"
+       r="11"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient940">
+      <stop
+         style="stop-color:#008080;stop-opacity:1;"
+         offset="0"
+         id="stop936" />
+      <stop
+         style="stop-color:#008080;stop-opacity:0;"
+         offset="1"
+         id="stop938" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="9.71875"
+     inkscape:cx="-7.9228296"
+     inkscape:cy="3.4983923"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1084" />
+  </sodipodi:namedview>
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#eff0f1;
+        }
+    </style>
+  <path
+     inkscape:connector-curvature="0"
+     d="M 18.422144,6.9118532 C 16.823765,6.4822533 15.136377,6.4807751 13.538772,6.9076301 8.526653,8.24653 5.5409991,13.430895 6.8886918,18.445385 8.236438,23.459864 13.426107,26.454624 18.438172,25.115746 23.450291,23.776847 26.435945,18.592471 25.0882,13.577991 l -2.479285,0.668186 c 0.98687,3.671819 -1.173232,7.408714 -4.843275,8.389115 -3.670093,0.980389 -7.410794,-1.186307 -8.397663,-4.858115 -0.986818,-3.671797 1.173234,-7.408714 4.843326,-8.389092 1.161896,-0.310373 2.380227,-0.309323 3.542637,0.0032 l 0.668204,-2.4792744 z m -2.243958,4.2294438 c 0.509207,0.06537 0.876628,0.378791 0.868228,0.741266 l 0.02578,3.04602 h 3.214334 c 1.431858,-0.01458 1.368979,2.156956 -0.06287,2.14277 h -4.235321 c -0.584711,-4.3e-5 -1.058767,-0.331896 -1.058816,-0.741257 v -4.447533 c -0.01038,-0.470442 0.597232,-0.829499 1.257396,-0.741266 z M 21.892884,8.5 c -0.887552,0 -1.607141,0.719528 -1.607141,1.6071 0,0.887572 0.719589,1.607089 1.607141,1.607089 0.887606,0 1.607142,-0.719517 1.607142,-1.607089 C 23.500026,9.219517 22.78049,8.5 21.892884,8.5 Z M 5.0909097,1 H 26.909125 c 2.72724,0 4.09091,1.3636362 4.09091,4.0909091 V 26.909091 C 31.000035,29.636365 29.636365,31 26.909125,31 H 5.0909097 C 2.36367,31 1,29.636365 1,26.909091 V 5.0909091 C 1,2.3636362 2.36367,1 5.0909097,1 Z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:xx-small;line-height:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:url(#radialGradient942);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:14.2164;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="path13-9-1-5-0-0" />
+</svg>
