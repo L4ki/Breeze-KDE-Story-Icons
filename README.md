@@ -231,15 +231,16 @@ Changelog: 02.02.2022.
 
 Added new icons: status (22)
 
-Changelog: 09.02.2022.
+Changelog: 16.02.2022.
 ----------------------
 
 Light Icons
 -----------
-Added new icons: status (24)
+
+Added new icons: devices (16)
 
 Dark Icons
 ----------
-Added new icons: status (symbolic)
 
+Added new icons: applets (256)
 
