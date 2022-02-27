@@ -244,3 +244,8 @@ Dark Icons
 
 Added new icons: applets (256)
 
+Changelog: 27.02.2022.
+----------------------
+
+Added new icons: devices (22)
+
