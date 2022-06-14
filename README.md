@@ -313,4 +313,9 @@ Changelog: 07.06.2022.
 
 Added new icons: actions 24
 
+Changelog: 14.06.2022.
+----------------------
+
+Update icons: actions 16
+
 
