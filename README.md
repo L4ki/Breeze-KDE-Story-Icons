@@ -350,3 +350,10 @@ Changelog: 06.08.2022.
 
 Added new icons: actions 16
 
+Changelog: 13.08.2022.
+----------------------
+
+Added new icons: actions 22
+
+
+
