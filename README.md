@@ -365,5 +365,9 @@ Changelog: 03.09.2022.
 
 Added new icons: actions 16
 
+Changelog: 10.09.2022.
+----------------------
+
+Update icons: places
 
 
