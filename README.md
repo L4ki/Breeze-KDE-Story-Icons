@@ -370,7 +370,7 @@ Changelog: 10.09.2022.
 
 Update icons: places
 
-Changelog: 10.09.2022.
+Changelog: 17.09.2022.
 ----------------------
 
 Added icons: actions 22
