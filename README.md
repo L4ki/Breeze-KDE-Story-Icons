@@ -381,7 +381,7 @@ Changelog: 24.09.2022.
 Added new icons: apps 48
 
 
-Changelog: 01.10..2022.
+Changelog: 01.10.2022.
 ----------------------
 
 Added new icons: actions 24
