@@ -391,4 +391,9 @@ Changelog: 08.10.2022.
 
 Added new icons: actions 16
 
+Changelog: 08.10.2022.
+----------------------
+
+Added new icons: apps
+
 
