@@ -494,4 +494,9 @@ Changelog: 12.02.2023.
 
 Added new icons: apps 32, 48
 
+Changelog: 19.02.2023.
+----------------------
+
+Added new icons: apps 32, 48
+
 
