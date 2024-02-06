@@ -28,7 +28,8 @@ Download: https://www.pling.com/p/1335436/
 
 
 
-Screenshot:
+Screenshots:
+------------
 
 ![Screenshot_20210109_174559](https://user-images.githubusercontent.com/45247573/201469408-c07d6811-361f-4ab3-9bae-bd0f9f2eb2d7.jpg)
 
