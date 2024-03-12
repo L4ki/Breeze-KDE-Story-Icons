@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 64 64"
+   viewBox="0 0 32 32"
    version="1.1"
    id="svg12"
    sodipodi:docname="folder-gimp.svg"
@@ -37,9 +37,9 @@
      inkscape:window-height="999"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="2.6074563"
-     inkscape:cx="-47.555926"
-     inkscape:cy="45.063075"
+     inkscape:zoom="7.375"
+     inkscape:cx="-9.0847458"
+     inkscape:cy="16.067797"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -114,43 +114,42 @@
        inkscape:collect="always"
        xlink:href="#linearGradient827"
        id="linearGradient829"
-       x1="3"
-       y1="32"
-       x2="95.516396"
-       y2="33.150547"
+       x1="1"
+       y1="16"
+       x2="53.237289"
+       y2="16.542374"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient835"
        id="linearGradient837"
-       x1="4"
-       y1="13"
-       x2="60"
-       y2="13"
+       x1="2"
+       y1="6.5"
+       x2="30"
+       y2="6.5"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      style="fill:url(#linearGradient829);fill-opacity:1;stroke:none"
-     d="M 4 6 L 4 11 L 4 20 L 3 20 L 3 21 L 3.0019531 21 C 3.0019031 21.004 3 21.008019 3 21.011719 L 3 57 L 3 58 L 4 58 L 60 58 L 61 58 L 61 57 L 61 21.011719 L 61 21 L 61 16 L 60 16 L 60 11.009766 C 60 11.006766 59.998047 11.004 59.998047 11 L 60 11 L 60 10 L 32 10 L 28 6 L 4 6 z "
+     d="M 2 3 L 2 10 L 1 10 L 1 29 L 12 29 L 13 29 L 31 29 L 31 8 L 30 8 L 30 5 L 16 5 L 14 3 L 2 3 z "
      class="ColorScheme-Highlight"
      id="path4" />
   <path
-     style="fill:url(#linearGradient837);fill-opacity:1;fill-rule:evenodd"
-     d="m 3.9999997,6 v 5 9 H 22 l 4,-4 h 34 v -4.990234 c 0,-0.003 -0.002,-0.0058 -0.002,-0.0098 H 60 v -1 H 32 l -4,-4 z"
-     id="path6"
-     inkscape:connector-curvature="0" />
+     style="fill-opacity:1;fill-rule:evenodd;fill:url(#linearGradient837)"
+     d="m 2,3 0,7 9,0 L 13,8 30,8 30,5 16,5 14,3 2,3 Z"
+     id="path6" />
   <path
      style="fill:#ffffff;fill-opacity:0.2;fill-rule:evenodd"
-     d="M 28 6 L 31 11 L 33 11 L 60 11 L 60 10 L 33 10 L 32 10 L 28 6 z M 26 16 L 22 20 L 3 20 L 3 21 L 23 21 L 26 16 z "
+     d="M 14 3 L 15 6 L 30 6 L 30 5 L 16 5 L 14 3 z M 13 8 L 11 10 L 1 10 L 1 11 L 12 11 L 13 8 z "
      id="path8" />
   <path
      style="fill-opacity:0.2;fill-rule:evenodd"
-     d="M 26 16 L 20 19 L 4 19 L 4 20 L 22 20 L 26 16 z M 3 57 L 3 58 L 4 58 L 60 58 L 61 58 L 61 57 L 60 57 L 4 57 L 3 57 z "
+     d="M 13 8 L 11 9 L 2 9 L 2 10 L 11 10 L 13 8 z M 1 28 L 1 29 L 31 29 L 31 28 L 1 28 z "
      class="ColorScheme-Text"
      id="path10" />
   <g
      id="g1404-1"
-     transform="matrix(0.95847855,0,0,0.96997874,17.012426,20.967837)"
+     transform="matrix(0.47923923,0,0,0.48498937,8.5062139,10.483918)"
      style="fill:#002e3c;fill-opacity:1">
     <path
        class="st0"
