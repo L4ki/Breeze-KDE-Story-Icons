@@ -45,7 +45,7 @@ Screenshots:
 
 
 
-Changelog: !2.03.2024.
+Changelog: 19.03.2024.
 ----------------------
 
 Added icons: places 32, 64
