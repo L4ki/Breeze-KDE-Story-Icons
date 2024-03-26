@@ -45,8 +45,10 @@ Screenshots:
 
 
 
-Changelog: 19.03.2024.
+Changelog: 26.03.2024.
 ----------------------
 
-Added icons: places 32, 64
+Update icons: actions
+
+Added new icons: apps 48
 
