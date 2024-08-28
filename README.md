@@ -48,4 +48,4 @@ Screenshots:
 Changelog: 21.08.2024.
 ----------------------
 
-Update icons: places
+Added new icons: apps 48
