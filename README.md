@@ -45,7 +45,7 @@ Screenshots:
 
 
 
-Changelog: 28.11.2024.
+Changelog: 05.12.2024.
 ----------------------
 
 Update icons: apps 48
