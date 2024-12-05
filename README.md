@@ -48,4 +48,4 @@ Screenshots:
 Changelog: 05.12.2024.
 ----------------------
 
-Update icons: apps 48
+Update: icon-theme.cache
