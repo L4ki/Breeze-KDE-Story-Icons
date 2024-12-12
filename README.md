@@ -45,7 +45,7 @@ Screenshots:
 
 
 
-Changelog: 05.12.2024.
+Changelog: 12.12.2024.
 ----------------------
 
-Update: icon-theme.cache
+Added new icons: apps 48
