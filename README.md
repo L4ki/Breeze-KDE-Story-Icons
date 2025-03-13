@@ -45,7 +45,7 @@ Screenshots:
 
 
 
-Changelog: 06.03.2025.
+Changelog: 13.03.2025.
 ----------------------
 
 Added new icons: apps 48
