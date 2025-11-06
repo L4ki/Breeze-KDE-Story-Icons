@@ -43,7 +43,7 @@ Screenshots:
 
 ------
 
-Changelog: 30.10.2025.
+Changelog: 06.11.2025.
 ----------------------
 
-Added new icons: actions 22
+Added new icons: apps 22
