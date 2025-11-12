@@ -43,7 +43,7 @@ Screenshots:
 
 ------
 
-Changelog: 06.11.2025.
+Changelog: 13.11.2025.
 ----------------------
 
-Added new icons: apps 22
+Added new icons: apps 24
