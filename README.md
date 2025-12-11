@@ -43,7 +43,7 @@ Screenshots:
 
 ------
 
-Changelog: 04.12.2025.
+Changelog: 11.12.2025.
 ----------------------
 
-Updates icons: status 24
+Updates icons: status 32
